@@ -1,0 +1,11 @@
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\bin\Debug\Terbilang.exe.config
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.csprojResolveAssemblyReference.cache
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.Form1.resources
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.Properties.Resources.resources
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.GenerateResource.Cache
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\bin\Debug\Terbilang.exe
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\bin\Debug\Terbilang.pdb
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\bin\Debug\TerbilangLibrary.dll
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\bin\Debug\TerbilangLibrary.pdb
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.exe
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\02\Terbilang\Terbilang\obj\Debug\Terbilang.pdb

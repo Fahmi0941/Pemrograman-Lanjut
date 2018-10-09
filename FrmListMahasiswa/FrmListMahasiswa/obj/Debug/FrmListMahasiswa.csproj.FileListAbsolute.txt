@@ -1,0 +1,9 @@
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.exe.config
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.exe
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.pdb
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.csprojResolveAssemblyReference.cache
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.Form1.resources
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.Properties.Resources.resources
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.csproj.GenerateResource.Cache
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.exe
+D:\Document\Amikom\Semester 3\Pemrograman Lanjut\Tugas\03\FrmListMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.pdb
